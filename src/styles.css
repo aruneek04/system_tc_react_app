@@ -1,0 +1,26 @@
+/* styles.css */
+
+.enterprise-table {
+	width: 100%;
+	border-collapse: collapse;
+	font-family: Arial, sans-serif;
+  }
+  
+  .enterprise-table th, .enterprise-table td {
+	border: 1px solid #ddd;
+	padding: 8px;
+  }
+  
+  .enterprise-table th {
+	background-color: #f2f2f2;
+	text-align: left;
+  }
+  
+  .enterprise-table tbody tr:nth-child(even) {
+	background-color: #f9f9f9;
+  }
+  
+  .enterprise-table tbody tr:hover {
+	background-color: #e0e0e0;
+  }
+  
