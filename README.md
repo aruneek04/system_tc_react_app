@@ -72,6 +72,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Test API for Rest Calls
 
 http://localhost:5000/systems?group=regression
+
 http://localhost:5000/systems?group=regression&id=CS17CA101AS0203
+
 http://localhost:5000/systems?group=regression&qdf=q42n
+
 http://localhost:5000/systems?group=regression&dimms=4&dimms_vendor=micron
