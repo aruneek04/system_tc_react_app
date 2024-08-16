@@ -19,7 +19,7 @@ const TableHeader = () => {
             <th>PCI vendor</th>   
             <th>PCI device</th>   
 
-        {/* Add more headers as needed */}
+        {/* Add more headers as needed* */}
       </tr>
     </thead>
   );
