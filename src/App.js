@@ -3,7 +3,7 @@ import './App.css';
 
 
 import React from 'react';
-import './styles.css'; // Import your CSS file
+import './styles.css'; // Import your CSS file .
 import FilterableTable from './components/FilterableTable';
 
 const App = () => {

@@ -106,5 +106,5 @@ useEffect(() => {
     </div>
   );
 };
-
+//
 export default FilterableTable;
